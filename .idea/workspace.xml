@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="948c0587-67d9-43b8-8982-1b626f3e5606" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "babaprincedaouda71"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;babaprincedaouda71&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/babaprincedaouda71/gs-pfe-2024-config.git",
-    "accountId": "2b253a8f-38b9-4864-ac83-b09ba6029c75"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/babaprincedaouda71/gs-pfe-2024-config.git&quot;,
+    &quot;accountId&quot;: &quot;2b253a8f-38b9-4864-ac83-b09ba6029c75&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -37,6 +40,10 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/baba/pfe/config-repo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -59,6 +66,7 @@
       <updated>1707816744025</updated>
       <workItem from="1707816745054" duration="49000" />
       <workItem from="1729601708135" duration="175000" />
+      <workItem from="1729615419613" duration="1810000" />
     </task>
     <servers />
   </component>
